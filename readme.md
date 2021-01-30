@@ -1,1 +1,1 @@
-This repository contain Javascript advanced topic
+This repository contain Javascript advanced topic.
