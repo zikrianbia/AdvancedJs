@@ -17,3 +17,7 @@ that's function doing something that effect outside world.
 think a function as its own universe.
 <br>
 ![purity](https://user-images.githubusercontent.com/71943838/106363778-2e9bc180-635d-11eb-8015-f047c7bcfef1.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 77366b6a163b97abd1e45a0b367ebf02b8c3d154
